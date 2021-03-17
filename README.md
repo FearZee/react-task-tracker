@@ -1,4 +1,4 @@
-# react-task-tracker/public/index.html
+# react-task-tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
